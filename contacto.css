@@ -1,0 +1,197 @@
+body{
+    background-color: rgb(245, 245, 245);
+}
+
+.contacto{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    font-style:unset;
+    color:rgb(136, 0, 255);
+}
+
+.img{
+    float: left; 
+    margin-top: -15px;  
+    margin-left: 10px;
+}
+
+.menu{
+    background-color: rgb(167, 176, 173);
+    padding: 20px 0;
+    text-align: right;
+}
+
+.clase{
+    list-style: none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    display: inline-block;
+   padding-left: 5px;
+}
+
+.clase a{
+    color: white;
+    text-decoration: none;
+}
+
+.clase a:hover{
+    background-color: rgb(30, 165, 206);
+
+}
+
+.clase a:active{
+    color: red;
+}
+
+.clase a::after{
+    content: " | ";
+}
+
+.action{
+    font-size: 20px;
+}
+
+.email{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    }
+
+.email2{
+font-size: 30px;
+}
+
+.contraseña2{
+    font-size: 30px;
+    }
+
+.contraseña{
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 30px;
+}
+
+.mensaje{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    }
+
+.mensaje2{
+    font-size: 30px;
+    height: 90px;
+    }
+
+.boton{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+}
+
+.otras{
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+.youtube{
+    font-family:cursive;
+    position: relative;
+    font-size: 27px;
+    left: 70px;
+    top: -73px;
+    color: rgb(255, 4, 0);
+}
+
+.face{
+    font-family:cursive;
+    position: relative;
+    font-size: 27px;
+    left: 0px;
+    top: -113px;
+}
+
+
+.facebook{
+    font-family:cursive;
+    position: relative;
+    font-size: 27px;
+    left: 70px;
+    top: -185px;
+    color: rgb(85, 115, 213);
+}
+
+.instagram{
+    font-family:cursive;
+    position: relative;
+    font-size: 27px;
+    left: 70px;
+    top: -279px;
+    color: rgb(175, 85, 213);
+}
+
+.ins{
+    font-family:cursive;
+    position: relative;
+    font-size: 27px;
+    left: 0px;
+    top: -205px;
+    color: rgb(175, 85, 213);
+}
+
+.instagram2{
+    font-family:cursive;
+    position: relative;
+    font-size: 27px;
+    left: 70px;
+    top: -380px;
+    color: rgb(175, 85, 213);
+}
+
+.ins2{
+    font-family:cursive;
+    position: relative;
+    font-size: 27px;
+    left: 0px;
+    top: -305px;
+    color: rgb(175, 85, 213);
+}
+
+.what{
+    font-family:cursive;
+    position: relative;
+    font-size: 27px;
+    left: 0px;
+    top: -405px;
+    color: rgb(175, 85, 213);
+}
+
+.what2{
+    font-family:cursive;
+    position: relative;
+    font-size: 27px;
+    left: 70px;
+    top: -482px;
+    color: rgb(85, 213, 91);
+}
+
+.maps{
+    position:relative;
+    left: 850px;
+    top: -1525px;
+    box-shadow: 4px 8px 4px 2px rgba(20, 20, 20, 0.169);
+}
+
+.googlemaps{
+    position: relative;
+    font-size: 30px;
+    color: rgba(73, 93, 209, 0.646);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.copyright{
+    position: relative;
+    background-color: rgba(128, 206, 206, 0.269);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 2%;
+}
+
+.logocopy{
+    margin-left: 900px;
+}

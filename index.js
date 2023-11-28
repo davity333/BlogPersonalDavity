@@ -1,0 +1,1 @@
+["Bienvenido a Mi Blog"].forEach(alert)
